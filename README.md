@@ -329,5 +329,5 @@ There are also some subtle differences between the CPython and PyPy versions:
 
 ## Interactive tutorial
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BeaMarton13/python-igraph/interative_tutorial_test?filepath=tutorials/interactive_tutorial.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BeaMarton13/python-igraph/interative_tutorial_test/HEAD?urlpath=%2Fdoc%2Ftree%2Ftutorials%2Finteractive_tutorial.ipynb)
 
