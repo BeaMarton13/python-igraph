@@ -328,6 +328,4 @@ There are also some subtle differences between the CPython and PyPy versions:
   ``GraphBase`` is internal anyway, this is likely to stay this way.
 
 ## Interactive tutorial
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BeaMarton13/python-igraph/interative_tutorial_test/HEAD?urlpath=%2Fdoc%2Ftree%2Ftutorials%2Finteractive_tutorial.ipynb)
-
+https://colab.research.google.com/github/BeaMarton13/python-igraph/blob/interative_tutorial_test/doc/tutorial/interactive_tutorial.ipynb
