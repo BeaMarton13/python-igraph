@@ -326,3 +326,8 @@ There are also some subtle differences between the CPython and PyPy versions:
 
 - ``GraphBase`` is hashable and iterable in PyPy but not in CPython. Since
   ``GraphBase`` is internal anyway, this is likely to stay this way.
+
+## Interactive tutorial
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BeaMarton13/python-igraph/tree/interative_tutorial_test?filepath=tutorials/interactive_tutorial.ipynb)
+
