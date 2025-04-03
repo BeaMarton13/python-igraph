@@ -1,0 +1,13 @@
+#!/bin/bash
+set -e
+
+# Ensure system dependencies are installed
+apt-get update && apt-get install -y \
+    cmake \
+    build-essential \
+    libxml2-dev \
+    libcurl4-openssl-dev \
+    libglib2.0-dev
+
+# Force MyBinder to install the binary version instead of building from source
+pip install --no-cache-dir --prefer-binary python-igraph==0.11.8
