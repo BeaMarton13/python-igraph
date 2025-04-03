@@ -1,3 +1,4 @@
-python-igraph==0.11.8 --prefer-binary
+pycairo
+python-igraph==0.11.8
 matplotlib
 jupyter
